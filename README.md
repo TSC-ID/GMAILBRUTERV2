@@ -1,6 +1,6 @@
 ## Installation :point_left:
 ```
-git clone https://github.com/TSC-ID/GmailBruterV2
+git clone https://github.com/TSC-ID/GMAILBRUTERV2
 cd GmailBruterV2
 ```
 ## CLI Commands :point_left:
